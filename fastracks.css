@@ -1,0 +1,95 @@
+
+
+.nav-bar{
+    width: 100%;
+    height: 30px;
+    font-size: 0.7rem;
+    color: white;
+    background-color: black;
+}
+.panel{
+    height: 60px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.logo{
+    width: 200px;
+    padding-top: 15px;
+   
+}
+.panel-ops{
+    width: 50%;
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.panel-icons{
+    display: flex;
+    justify-content: space-evenly;
+    width: 15%;
+   
+}
+.location{
+
+    width: 100%;
+    height: 50px;
+    background-color:gainsboro;
+    display: flex;
+    justify-content: center;
+}
+.l{
+    padding-top: 15px;
+}
+.fa-solid fa-location-dot{
+    padding-top: 15px;
+}
+
+
+.f-image{
+width: 100%;
+height: 500px;
+}
+.shoping-list{
+    display: flex;
+    justify-content: space-evenly;
+
+   
+}
+.box{
+    height: 500px;
+    border: 2px slid white;
+    width: 200px;
+    color: black;
+
+}
+.newpicture{
+    width: 100%;
+    height: 500px; ;
+}
+.new{
+    width: 100%;
+    height: 500px;
+}
+
+.foot-panel1{
+    background-color: black;
+    color: white;
+    border-top: 0.5px solid white;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    
+}
+.foot-panel2{
+    background-color: #222f3d;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    color: white;
+
+}
+
+
